@@ -47,7 +47,10 @@ CyberSecurity-Task1-Nmap-Scan/
 ├── README.md
 ├── scan_results.txt
 └── screenshots/
-    └── nmap-scan-placeholder.png
+    └── Nmap_installation_verification.png
+    └── IP_address.png
+    └── TCP_SYN.png
+    └── Save_results.png
 ```
 
 ---
